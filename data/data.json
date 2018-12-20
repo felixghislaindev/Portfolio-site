@@ -1,0 +1,49 @@
+{
+    "projects":[
+        {
+            "id":"pj-1",
+            "project_name":"Random Quote Generator",
+            "description":"A Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button. ",
+            "technologies":["HTML","Css","Javascript"],
+            "live_link":"https://quizzical-raman-4ac037.netlify.com",
+            "github_link":"https://github.com/felixghislaindev/Random-quote-generator",
+            "image_url":["/static/images/550px/quoteMain.png","/static/images/1200/quote1.png","/static/images/550px/quoteMain.png","/static/images/550px/quoteMain.png"]
+        },
+        {
+            "id":"pj-2",
+            "project_name":"list-pagination",
+            "description":"Enhancing the usability of a web page that is displaying way too much information all at once,adding a popular web development technique known as pagination.Search feature to display only the students that match the search criteria  ",
+            "technologies":["HTML","Css","Javascript"],
+            "live_link":"https://thirsty-bose-a7217c.netlify.com",
+            "github_link":"https://github.com/felixghislaindev/list-pagination",
+            "image_url":["/static/images/550px/pagination.png","/static/images/1200/page1.png","/static/images/1200/page2.png","/static/images/1200/page3.png"]
+        },
+        {
+            "id":"pj-3",
+            "project_name":"interactive-form",
+            "description":"Forms are used to collect information from users for nearly every website and application. For this project, i have used my skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+            "technologies":["HTML","css","Javascript","Jquery"],
+            "live_link":"https://awesome-swartz-3959a7.netlify.com",
+            "github_link":"https://github.com/felixghislaindev/interactive-form",
+            "image_url":["/static/images/550px/form.png","/static/images/1200/form1.png","/static/images/1200/form2.png","/static/images/1200/form3.png"]
+        },
+        {
+            "id":"pj-4",
+            "project_name":"PhraseHunter",
+            "description":" Browser-based, word guessing game: Phrase Hunter. Which uses JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard.",
+            "technologies":["HTML","css","Javascript","Jquery"],
+            "live_link":"https://jovial-euclid-7a98c0.netlify.com",
+            "github_link":"https://github.com/felixghislaindev/PhraseHunter-oop__based-game",
+            "image_url":["/static/images/550px/phrase.png","/static/images/1200/phrase1.png","/static/images/1200/phrase2.png","/static/images/1200/phrase3.png"]
+        },
+        {
+            "id":"pj-5",
+            "project_name":"PublicApiRequest",
+            "description":" Using JavaScript, i have createed an employee directory by communicating with a third-party API (Application Programming Interface).",
+            "technologies":["HTML","css","Javascript","Jquery"],
+            "live_link":"https://tender-einstein-9b121b.netlify.com",
+            "github_link":"https://github.com/felixghislaindev/PublicApiRequest",
+            "image_url":["/static/images/550px/api.png","/static/images/1200/api1.png","/static/images/1200/api2.png","/static/images/1200/api3.png"]
+        }
+    ]
+}

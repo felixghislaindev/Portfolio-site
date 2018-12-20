@@ -1,10 +1,12 @@
 
+
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Poppins', sans-serif;
 }
 
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -58,14 +60,14 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #00a8ff;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: #fff;
   }
 
   .portfolio-me a{
@@ -79,7 +81,7 @@ a:hover{
   }
 
   .portfolio-me a:hover{
-    color: #999;
+    color: #fff;
   }
 
 .portfolio-breadcrumb{
@@ -126,6 +128,8 @@ a:hover{
 
     .portfolio-index .cell h5{
       letter-spacing: 1px;
+      padding-bottom: 50px;
+      padding-top: 20px;
     }
 
 .portfolio-meta{
@@ -138,6 +142,7 @@ a:hover{
 
 .portfolio-project p{
   border: none;
+ 
 }
 
 .portfolio-project li{
