@@ -16,9 +16,13 @@ app.use('/',router);
 
 // handleling 404 
 app.use((req,res,next) =>{
-    res.status(404)
-    res.redirect('/');
+   const error = new Error()
+   
+   res.status(404)
+   res.render('error',{ title:'Oops!', stack:error,message:'The page you are looking could not be found',code:404 });
 })
+
+
 
 //lsitening to port 3000
 app.listen(3000, () => console.log('app listening on port 3000..'));
